@@ -440,17 +440,6 @@ These dashboards demonstrate my ability to:
 
 ---
 
-## 📫 Connect With Me
-
-**Mariam Iftikhar**  
-MS Business Analytics Student | Graduate Research Assistant  
-Roosevelt University
-
-- 💼 **LinkedIn:** [linkedin.com/in/mariam-iftikhar](https://linkedin.com/in/mariam-iftikhar)
-- 📧 **Email:** mariamiftikhar127@gmail.com
-- 🌐 **GitHub:** [@Mariam-iftikhar](https://github.com/Mariam-iftikhar)
----
-
 ## 🎯 Career Objectives
 
 I am actively seeking opportunities in:
