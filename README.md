@@ -1,7 +1,7 @@
 # Power BI Projects Portfolio
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mariam--iftikhar-blue?logo=github)](https://github.com/Mariam-iftikhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/mariam-iftikhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/mariamiftikhar)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
 
 ## 📋 Overview
