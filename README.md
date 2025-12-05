@@ -449,11 +449,6 @@ Roosevelt University
 - 💼 **LinkedIn:** [linkedin.com/in/mariam-iftikhar](https://linkedin.com/in/mariam-iftikhar)
 - 📧 **Email:** mariamiftikhar127@gmail.com
 - 🌐 **GitHub:** [@Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-- 📊 **Other Portfolios:** 
-  - [SQL Data Analysis Projects](https://github.com/Mariam-iftikhar/SQL-Data-Analysis-Projects)
-  - [Excel Projects Portfolio](https://github.com/Mariam-iftikhar/Excel-Portfolio)
-  - [Professional Certifications](https://github.com/Mariam-iftikhar/Certificates)
-
 ---
 
 ## 🎯 Career Objectives
@@ -476,17 +471,6 @@ With strong Power BI skills, business acumen, and a passion for data storytellin
 **File Formats:** PNG, JPG, PDF (dashboard screenshots and reports)  
 **Last Updated:** December 2025
 
----
-
-## 🚀 Future Enhancements
-
-- Integration with Power BI Service (published reports)
-- Embedded Power BI reports in portfolio website
-- Video walkthroughs of key dashboards
-- Case studies documenting dashboard development process
-- Advanced analytics with R and Python visuals
-
----
 
 *"The goal is to turn data into information, and information into insight." - Carly Fiorina*
 
